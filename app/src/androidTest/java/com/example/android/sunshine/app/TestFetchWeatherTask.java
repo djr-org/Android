@@ -9,6 +9,7 @@ public class TestFetchWeatherTask extends AndroidTestCase{
     static final double ADD_LOCATION_LON = -119.714167;
 
     //Jeeva Added the comment
+    //Second comment
 
     /*
         Students: uncomment testAddLocation after you have written the AddLocation function.
